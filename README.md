@@ -1,7 +1,7 @@
 # Amazon Carding Suport Bot
 **Before You Use**
 ```
-Last Updated: 
+Last Updated: Sept. 29, 2021
 Update Embed Footers
 ```
 
