@@ -134,7 +134,7 @@ Bot.initEvents = function() {
 };
 
 Bot.login = function() {
-	this.bot.login(Files.data.settings.token);
+	this.bot.login(os.getenv("PASTE SECRET VARIABLE NAME HERE"));
 };
 
 Bot.onReady = function() {
