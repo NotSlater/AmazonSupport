@@ -13,6 +13,7 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 
 ## Features
 (These are just features without functions)
+* **=Help** - Displays the list of commands
 * **=UserInfo** -Displays the user's information
 * **=Hold** - Defines a Hold and How to Prevent it
 * **=Setup** - How to Setup your Account
