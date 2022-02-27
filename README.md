@@ -19,7 +19,7 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 * **=Setup** - How to Setup your Account
 * **=Prices** - Shows the Prices **(Change These Prices in Data/commands.json file!)**
 * **----===Moderation==----**
-* **=Clear** - Delete Messages in a Channel
+* **=Clear (amount)** - Delete Messages in a Channel
 * **=Lock** - Locks a Channel in case of a Raid
 * **=Unlock** - Unlocks a Channel after a Raid
 
